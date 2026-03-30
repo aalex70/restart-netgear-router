@@ -6,6 +6,6 @@ Requisito: curl installato
 
 Config: personalizzare le seguenti variabili:
 
-ROUTER_IP="192.168.2.1"
-USER="admin"
+ROUTER_IP="192.168.2.1"<br>
+USER="admin"<br>
 PASS="password"
